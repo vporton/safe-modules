@@ -47,7 +47,7 @@
     "solium": "^1.2.1"
   },
   "dependencies": {
-    "@gnosis.pm/safe-contracts": "^0.1.0",
+    "@gnosis.pm/safe-contracts": "^1.2.0",
     "@gnosis.pm/util-contracts": "^2.0.0",
     "dotenv": "^6.2.0",
     "openzeppelin-solidity": "^2.0.0"
